@@ -1,5 +1,5 @@
 <?php
-$apikey = "AIzaSyDxRdM-Mr6H-hwhem0kaQdioaZdComQQ7E";
+$apikey = "AIzaSyDxRdM-Mr6H-hwhem0kaQdioaZdComQQ7E"; //Add Google API key for fetching Video
 if (isset($_GET['id'])) {
     $id = $_GET['id']; 
 
@@ -54,6 +54,7 @@ if (isset($_GET['id'])) {
 	}
 })
 </script>
+
 <style>
 .video-container{
     position: fixed;
