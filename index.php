@@ -16,7 +16,7 @@
             <div class="tcontainern">
                 <div class="n_">
                     <div class="nk">
-                        <h1 class="ot"><a href="index-2.html"><img src="images/logo.svg" alt="Surface" width="32"
+                        <h1 class="ot"><a href="index.php"><img src="images/logo.svg" alt="Surface" width="32"
                                     height="32"></a></h1>
                     </div><button id="th" class="th" aria-controls="primary-menu" aria-expanded="false"><span
                             class="sn">Menu</span>
@@ -25,7 +25,7 @@
                         <div class="nq">
                             <ul class="sr h
                                     re">
-                                <li><a href="additional.html">Contact</a></li>
+                                <li><a href="about.html">About Us</a></li>
                             </ul>
                             <ul class="sr re">
                                 <li><a class="tbuttonn fbuttonl gbuttony
@@ -46,7 +46,7 @@
                                 <p class="ot uu reveal-from-top" data-reveal-delay="300"> Get
                                     Beautiful Results Forever.</p>
                                 <div class="reveal-from-top" data-reveal-delay="450"><a class="tbuttonn fbuttonl"
-                                        href="#">Pricing
+                                        href="index.php#pricing">Pricing
                                         and plans</a></div>
                             </div>
                         </div>
@@ -301,7 +301,7 @@
                                             class="sp">/ </span><span class="iz"><a href="#">AppName</a></span></div>
                                 </div>
                             </div>
-                           
+                            
                             <div class="ng reveal-from-bottom" data-reveal-container=".tiles-wrap"
                                 data-reveal-delay="400">
                                 <div class="ny id">
@@ -330,7 +330,26 @@
                     </div>
                 </div>
             </section>
-            <section class="rk nx iy">
+            <section class="is nx ft sk r">
+                <div class="tcontainern">
+                    <div class="st rd iu">
+                        <div class="io">
+                            <h3 class="ot">For
+                                previewing layouts and visual?</h3>
+                        </div>
+                        <div class="cta-action">
+                            <div class="tu"><label for="newsletter" class="x sn">Subscribe</label>
+                                <input id="newsletter" class="j" type="text" placeholder="Your best email"> <svg
+                                    width="16" height="12" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M9 5H1c-.6 0-1 .4-1 1s.4 1 1
+                                            1h8v5l7-6-7-6v5z" fill="#3D5AFE"></path>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="rk nx iy" id="pricing">
                 <div class="tcontainern">
                     <div class="pricing-inner rd">
                         <div class="rv sq">
@@ -496,8 +515,8 @@
                                         </div>
                                     </div>
                                     <div class="pricing-item-cta od"><a class="tbuttonn fbuttonl
-                                                pbuttond" href="#">Start free
-                                            trial</a></div>
+                                                pbuttond" href="#">Start Free
+                                            Trial</a></div>
                                 </div>
                             </div>
                             <div class="ng reveal-from-bottom" data-reveal-delay="400">
@@ -574,31 +593,13 @@
                     </div>
                 </div>
             </section>
-            <section class="is nx ft sk r">
-                <div class="tcontainern">
-                    <div class="st rd iu">
-                        <div class="io">
-                            <h3 class="ot">For
-                                previewing layouts and visual?</h3>
-                        </div>
-                        <div class="cta-action">
-                            <div class="tu"><label for="newsletter" class="x sn">Subscribe</label>
-                                <input id="newsletter" class="j" type="text" placeholder="Your best email"> <svg
-                                    width="16" height="12" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M9 5H1c-.6 0-1 .4-1 1s.4 1 1
-                                            1h8v5l7-6-7-6v5z" fill="#3D5AFE"></path>
-                                </svg>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+           
         </main>
         <footer class="rr ft r">
             <div class="tcontainern">
                 <div class="ri">
                     <div class="rs rh h">
-                        <div class="nk"><a href="index-2.html"><img src="images/logo.svg" alt="Surface" width="32"
+                        <div class="nk"><a href="index.php"><img src="images/logo.svg" alt="Surface" width="32"
                                     height="32"></a></div>
                         <div class="rl">
                             <ul class="sr">
@@ -666,7 +667,7 @@
                                 <li><a href="#">Support</a></li>
                             </ul>
                         </nav>
-                        <div class="footer-copyright">© 2020 Surface, all
+                        <div class="footer-copyright">© 2021 Godimer, All
                             rights reserved</div>
                     </div>
                 </div>
