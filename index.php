@@ -377,78 +377,7 @@
                                         }"></label>
                             <div class="ie"></div>
                         </div>
-                        <div class="tiles-wrap">
-                            <div class="ng
-                                    reveal-from-bottom">
-                                <div class="ny id">
-                                    <div class="r_">
-                                        <div class="ib al un">
-                                            <div class="pricing-item-price" data-price-output="{
-                                                    &quot;0&quot;:
-                                                    [&quot;&quot;,
-                                                    &quot;Free&quot;,
-                                                    &quot;&quot;],
-                                                    &quot;1&quot;:
-                                                    [&quot;$&quot;,
-                                                    &quot;13&quot;,
-                                                    &quot;/m&quot;],
-                                                    &quot;2&quot;:
-                                                    [&quot;$&quot;,
-                                                    &quot;17&quot;,
-                                                    &quot;/m&quot;],
-                                                    &quot;3&quot;:
-                                                    [&quot;$&quot;,
-                                                    &quot;21&quot;,
-                                                    &quot;/m&quot;],
-                                                    &quot;4&quot;:
-                                                    [&quot;$&quot;,
-                                                    &quot;25&quot;,
-                                                    &quot;/m&quot;],
-                                                    &quot;5&quot;:
-                                                    [&quot;$&quot;,
-                                                    &quot;42&quot;,
-                                                    &quot;/m&quot;],
-                                                    &quot;6&quot;:
-                                                    [&quot;$&quot;,
-                                                    &quot;58&quot;,
-                                                    &quot;/m&quot;],
-                                                    &quot;7&quot;:
-                                                    [&quot;$&quot;,
-                                                    &quot;117&quot;,
-                                                    &quot;/m&quot;],
-                                                    &quot;8&quot;:
-                                                    [&quot;$&quot;,
-                                                    &quot;208&quot;,
-                                                    &quot;/m&quot;]
-                                                    }"><span class="iw o"></span><span class="pricing-item-price-amount
-                                                        i"></span><span class="pricing-item-price-after
-                                                        l"></span></div>
-                                            <div class="c sp">Lorem ipsum is
-                                                a common text</div>
-                                        </div>
-                                        <div class="pricing-item-features
-                                                mb-40">
-                                            <div class="ix f c sc
-                                                    un">What’s included</div>
-                                            <ul class="rj sr c uu">
-                                                <li class="ik">Excepteur
-                                                    sint occaecat velit</li>
-                                                <li class="ik">Excepteur
-                                                    sint occaecat velit</li>
-                                                <li class="ik">Excepteur
-                                                    sint occaecat velit</li>
-                                                <li>Excepteur
-                                                    sint occaecat velit</li>
-                                                <li>Excepteur
-                                                    sint occaecat velit</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="pricing-item-cta od"><a class="tbuttonn fbuttonl
-                                                pbuttond" href="#">Start free
-                                            trial</a></div>
-                                </div>
-                            </div>
+                       
                             <div class="ng reveal-from-bottom" data-reveal-delay="200">
                                 <div class="ny id">
                                     <div class="r_">
@@ -501,10 +430,9 @@
                                             <div class="ix f c sc
                                                     un">What’s included</div>
                                             <ul class="rj sr c uu">
-                                                <li class="ik">Excepteur
-                                                    sint occaecat velit</li>
-                                                <li class="ik">Excepteur
-                                                    sint occaecat velit</li>
+                                                <li class="ik">Start Free
+                                            Trial</li>
+                                               
                                                 <li class="ik">Excepteur
                                                     sint occaecat velit</li>
                                                 <li class="ik">Excepteur
@@ -575,12 +503,9 @@
                                                     sint occaecat velit</li>
                                                 <li class="ik">Excepteur
                                                     sint occaecat velit</li>
-                                                <li class="ik">Excepteur
-                                                    sint occaecat velit</li>
-                                                <li class="ik">Excepteur
-                                                    sint occaecat velit</li>
-                                                <li class="ik">Excepteur
-                                                    sint occaecat velit</li>
+                                               
+                                                <li class="ik">What’s included</li>
+                                                <li class="ik">What’s included</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -634,8 +559,8 @@
                                                     15.6 3.7 16 3z"></path>
                                         </svg></a></li>
                                 <li><a href="#"><svg width="16" height="16" viewBox="0 0 16 16"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <title>Instagram</title>
+                                            xmlns="">
+                                           
                                             <g>
                                                 <circle cx="12.145" cy="3.892" r="1"></circle>
                                                 <path d="M8 12c-2.206
